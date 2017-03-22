@@ -1,1 +1,17 @@
 /*styles for assignment 3*/
+
+body {
+	background-color: black;
+	font-family: "Arial";
+	font-weight: 350;
+	margin:2cm 5cm 3cm 12cm;
+}
+h1 {
+	color: blue;
+}
+
+section>p{
+	color:red;
+	font-style: italic;
+	font-size:20px;
+}
