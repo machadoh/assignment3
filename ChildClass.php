@@ -2,7 +2,7 @@
 	// this file will extend PArentClass.php
 
 	class ChildClass extends ParentClass {
-		public $n;
+    public $n;
     public $y;
     public $s;
 		
